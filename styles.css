@@ -9,6 +9,7 @@ h2 {
 header {
      background-color: #20B2AA
      text-align: center;
+     text-shadow: 2px 2px 5px red;
 }
 
 body {
